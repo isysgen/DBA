@@ -8,12 +8,11 @@
 ![Схема](image.png)
 
 таблицы:
-Table product (Справочник продуктов)
-
-Table customer(покупатели)
-Table order(покупки)
-Table price(цена)
-Table product_category (категории продуктов)
-Table product_feature (Товары и их характеристики)
-Table product_ftr(описание товара)
-Table suppliers(поставщики)
+- Table product (Справочник продуктов)
+- Table customer(покупатели)
+- Table order(покупки)
+- Table price(цена)
+- Table product_category (категории продуктов)
+- Table product_feature (Товары и их характеристики)
+- Table product_ftr(описание товара)
+- Table suppliers(поставщики)
