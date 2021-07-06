@@ -9,10 +9,11 @@
 
 таблицы:
 - Table product (Справочник продуктов)
+- Table product_category (категории продуктов)
+- Table product_feature (характеристики товаров)
+- Table product_ftr(описание товара)
 - Table customer(покупатели)
 - Table order(покупки)
 - Table price(цена)
-- Table product_category (категории продуктов)
-- Table product_feature (Товары и их характеристики)
-- Table product_ftr(описание товара)
+- Table vendor(производитель)
 - Table suppliers(поставщики)
