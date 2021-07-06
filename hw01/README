@@ -5,4 +5,15 @@
 Свои решения для этой схемы приветствуются
 
 
-![Схема сети](image_2021-07-06_15-07-14.png)
+![Схема](image.png)
+
+таблицы:
+Table product (Справочник продуктов)
+
+Table customer(покупатели)
+Table order(покупки)
+Table price(цена)
+Table product_category (категории продуктов)
+Table product_feature (Товары и их характеристики)
+Table product_ftr(описание товара)
+Table suppliers(поставщики)
