@@ -5,7 +5,7 @@
 Свои решения для этой схемы приветствуются
 
 
-![Схема](https://github.com/isysgen/DBA/blob/main/hw01/image.png)
+![Схема](image.png)
 
 таблицы:
 Table product (Справочник продуктов)
